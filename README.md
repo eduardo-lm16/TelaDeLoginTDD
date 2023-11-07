@@ -31,7 +31,7 @@
     }
     }
 
-## Criaçao da Classe Tela de Login
+## Criação de Classe Tela de Login
 <p>
   A seguir, foi criada a classe LoginScreen. Foi utizado um HashMap, que simula de maneira simplificada uma base de dados. 
   Depois, um método de verificação dos dados inseridos pelo usuário. Por fim, foi adicionado, como exemplo, um novo usuário.
