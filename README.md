@@ -80,13 +80,13 @@
         }
     }
 
-##Refazendo Testes
+## Refazendo Testes
 <p>
   Feita a classe de acordo com os testes previamente estabelecidos, os mesmos foram novamente executados, dessa vez sem retornar erros
   e retornarndo o resultado esperado nos três testes.
 </p>
 
-##Documentação
+## Documentação
 <p>
   Por fim, foi feita a documentação utilizando Javadoc. O código foi comentando com a formatação específica de documentação, e foi gerado
   o documento Javadoc, conforme consta nos arquivos do projeto.,
